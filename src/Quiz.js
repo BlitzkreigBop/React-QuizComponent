@@ -10,7 +10,7 @@ class Quiz extends Component{
         }
 
         this.render(){
-            return <div></div>;
+            return <div></div>; 
         }
     }
 
